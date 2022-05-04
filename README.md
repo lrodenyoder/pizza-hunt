@@ -3,7 +3,6 @@
   ![npm](https://img.shields.io/badge/Express.js-^4.17.1-yellow)
   ![npm](https://img.shields.io/badge/MongoDB-^2.1.0-blue)
   ![npm](https://img.shields.io/badge/Mongoose-^5.21.7-green)
-  ![npm](https://img.shields.io/badge/bcrypt-^5.0.1-red)
   
 ## Description
 
